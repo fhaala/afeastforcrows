@@ -97,39 +97,26 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Blog # Label
-    url     : /blog/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
-  - title   : Extras
-    child   :
-      - title : Tags
-        url   : /tags
-      - title : Categories
-        url   : /categories
-      - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
-  - title   : Docs
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
-#  - title   : # Label submenu
-#    child:		
-#    - title: # Child label		
-#      url  : # child url	
-#    - title: # Child label		
-#      url  : # child url	
+  - title   : Audio # Label
+    url     : /audio # url	
+  - title   : Video
+    url     : /video
+  - title   : Tour
+    url     : /tour
+  - title   : Contact
+    url     : /contact
 #Social links to be placed on your site footer
 footer:
   links:
-    - label : Repo on Github # Label
-      icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-    - label: "RSS"
-      icon: "fa fa-rss"
-      url:  "./atom.xml"
+    - label : facebook # Label
+      icon  : fa-brands fa-facebook # Fontawesome 5 icon
+      url   : https://www.facebook.com/affcband # A link or email: https://twitter.com/jack, mail@example.com
+    - label : instagram
+      icon  : fa-brands fa-instagram
+      url   : https://www.instagram.com/affcband
+    - label : twitter x
+      icon  : fa-brands fa-x-twitter
+      url   : http://x.com/affcband
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings
@@ -140,7 +127,7 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   highlight     :  # default["default"]
-  skin         :  # Optional predefined skins
+  skin         :  deeply # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
   vars          :    
     primary     : "#ffbe98" #default ["#007bff"] - Bootstrap blue
