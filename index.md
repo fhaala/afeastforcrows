@@ -56,6 +56,10 @@ header_img: ./assets/img/affc_logo_2020_white.png
 ---
 ## tour
 
+<div class="card">
+<div class="card-body">
+    <h2 class="card-title">audio</h2>
+
 <table class="table table-hover">
 <tbody>
     <tr>
@@ -75,6 +79,9 @@ header_img: ./assets/img/affc_logo_2020_white.png
     </tr>
   </tbody>
 </table>
+
+</div>
+</div>
 
 ---
 ## contact
