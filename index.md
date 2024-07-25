@@ -50,7 +50,7 @@ header_img: ./assets/img/affc_logo_2020_white.png
 ---
 ## tour
 
-<table class="table">
+<table class="table table-hover">
 <tbody>
     <tr>
       <td>24 JUN 19</td>
