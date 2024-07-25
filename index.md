@@ -50,5 +50,7 @@ header_img: ./assets/img/affc_logo_2020_white.png
 ---
 ## tour
 
+| 24-07-19 | Munich | [Music Club Munich](https://music-club-munich.de)
+
 ---
 ## contacts
