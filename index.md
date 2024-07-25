@@ -1,9 +1,7 @@
 ---
 layout: default
-title: 
 header_type: image
 header_img: ./assets/img/affc_logo_2020_white.png
-
 ---
 
 <div class="card">
@@ -43,8 +41,9 @@ header_img: ./assets/img/affc_logo_2020_white.png
 </div>
 </div>
 
----
-## video
+<div class="card">
+<div class="card-body">
+    <h2 class="card-title">tour</h2>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-vHlEcr9xJY" allowfullscreen></iframe>
@@ -53,12 +52,12 @@ header_img: ./assets/img/affc_logo_2020_white.png
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GgxhZ0_jyoY" allowfullscreen></iframe>
 </div>
 
----
-## tour
+</div>
+</div>
 
 <div class="card">
 <div class="card-body">
-    <h2 class="card-title">audio</h2>
+    <h2 class="card-title">tour</h2>
 
 <table class="table table-hover">
 <tbody>
@@ -82,6 +81,3 @@ header_img: ./assets/img/affc_logo_2020_white.png
 
 </div>
 </div>
-
----
-## contact
