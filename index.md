@@ -59,7 +59,7 @@ header_img: ./assets/img/affc_logo_2020_white.png
 <div class="card-body">
     <h2 class="card-title">tour</h2>
 
-<table class="table table-hover">
+<table class="table-responsive table-hover">
 <tbody>
     <tr>
       <td>24 JUN 19</td>
