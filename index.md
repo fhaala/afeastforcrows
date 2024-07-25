@@ -54,17 +54,17 @@ header_img: ./assets/img/affc_logo_2020_white.png
 <tbody>
     <tr>
       <td>24 JUN 19</td>
-      <td>Munich/td>
+      <td>Munich</td>
       <td><a href="https://music-club-munich.de">Music Club Munich</a></td>
     </tr>
     <tr>
       <td>24 JUN 19</td>
-      <td>Munich/td>
+      <td>Munich</td>
       <td><a href="https://music-club-munich.de">Music Club Munich</a></td>
     </tr>
     <tr>
       <td>24 JUN 19</td>
-      <td>Munich/td>
+      <td>Munich</td>
       <td><a href="https://music-club-munich.de">Music Club Munich</a></td>
     </tr>
   </tbody>
