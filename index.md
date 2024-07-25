@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A Feast For Crows
-header_type: splash
+header_type: image
 header_img: assets/affc_logo_2020_white.png
 ---
 
